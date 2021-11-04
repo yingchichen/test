@@ -1,7 +1,8 @@
-# test
-## test
-### test
+# This is an example of GitDemo
+## This is an example of GitDemo
+### This is an example of GitDemo
+#### This is an example of GitDemo
+##### This is an example of GitDemo
+
 <https://markdown.tw>
-*   Red
-*   Green
-*   Blue
+
